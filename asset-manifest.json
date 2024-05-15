@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/live-properties-deploy/static/css/main.a5ec67fb.css",
+    "main.css": "/live-properties-deploy/static/css/main.54c25d11.css",
     "main.js": "/live-properties-deploy/static/js/main.503ad0fd.js",
     "static/css/625.d3ce1623.chunk.css": "/live-properties-deploy/static/css/625.d3ce1623.chunk.css",
     "static/js/625.166b36ce.chunk.js": "/live-properties-deploy/static/js/625.166b36ce.chunk.js",
@@ -44,7 +44,7 @@
     "static/media/garage_home.svg": "/live-properties-deploy/static/media/garage_home.0040120fb6699cf237f55e2412e04502.svg",
     "static/media/Mountain-View.svg": "/live-properties-deploy/static/media/Mountain-View.c7dac68a3cce03fea20e23618ba42e9d.svg",
     "static/media/20_Villa.svg": "/live-properties-deploy/static/media/20_Villa.e2845049667368873f8ae048b71dda25.svg",
-    "main.a5ec67fb.css.map": "/live-properties-deploy/static/css/main.a5ec67fb.css.map",
+    "main.54c25d11.css.map": "/live-properties-deploy/static/css/main.54c25d11.css.map",
     "main.503ad0fd.js.map": "/live-properties-deploy/static/js/main.503ad0fd.js.map",
     "625.d3ce1623.chunk.css.map": "/live-properties-deploy/static/css/625.d3ce1623.chunk.css.map",
     "625.166b36ce.chunk.js.map": "/live-properties-deploy/static/js/625.166b36ce.chunk.js.map",
@@ -54,7 +54,7 @@
     "317.328cb511.chunk.js.map": "/live-properties-deploy/static/js/317.328cb511.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5ec67fb.css",
+    "static/css/main.54c25d11.css",
     "static/js/main.503ad0fd.js"
   ]
 }
