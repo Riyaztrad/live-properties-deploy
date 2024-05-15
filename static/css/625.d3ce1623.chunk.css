@@ -1,0 +1,2 @@
+*{box-sizing:border-box}::-webkit-scrollbar{background:#0000;width:0}.scroll-container{height:100vh;overflow-x:hidden;overflow-y:scroll;position:relative;scroll-snap-type:y mandatory}.section-container{height:100vh;scroll-snap-align:center}.section-container-footer{height:50vh;scroll-snap-align:bottom}
+/*# sourceMappingURL=625.d3ce1623.chunk.css.map*/
